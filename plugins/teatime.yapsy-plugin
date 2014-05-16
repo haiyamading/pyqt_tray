@@ -1,0 +1,9 @@
+[Core]
+Name = TeaTime
+Module = TeaTime
+
+[Documentation]
+Author = monte
+Version = 0.1
+Website = None
+Description = Add tea time to the tray
